@@ -1,10 +1,7 @@
 package com.prashant.socket.sockethelper
 
 import android.util.Log
-import com.prashant.socket.sockethelper.SocketKeys.BOOKING_CANCEL_ALERT
-import com.prashant.socket.sockethelper.SocketKeys.BOOKING_STATUS_CHANGE
 import com.prashant.socket.sockethelper.SocketKeys.LOGOUT
-import com.prashant.socket.sockethelper.SocketKeys.SYNC_DATA
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
